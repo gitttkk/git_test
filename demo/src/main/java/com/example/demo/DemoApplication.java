@@ -8,8 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		//19回目(1)
-		//19回目(2)
+		//20回目(1)
 
 	}
 
